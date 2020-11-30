@@ -1,0 +1,5 @@
+This is a fun project demonstrating an implementation of data compression algorithims in C. 
+When finished, the program will take text file, compress the bits, then apply huffman or another alogorithm for
+further compression. 
+This is simply a practice project with the 
+goal of eventually developing implementations of compression algorithms and to compress audio, images, and video.
